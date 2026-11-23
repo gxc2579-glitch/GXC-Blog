@@ -1,5 +1,7 @@
 # GuXingChen Blog
 
+[![Deploy to GitHub Pages](https://github.com/gxc2579-glitch/GXC-Blog/actions/workflows/deploy.yml/badge.svg)](https://github.com/gxc2579-glitch/GXC-Blog/actions/workflows/deploy.yml)
+
 > Tech Otakus · 记录技术、ACGN 与生活
 
 ![GuXingChen Blog](./public/assets/images/hello-gxc-cover.jpg)
