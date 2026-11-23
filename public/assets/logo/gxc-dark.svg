@@ -1,0 +1,17 @@
+<svg width="130" height="64" viewBox="0 0 130 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GXC">
+  <defs>
+    <linearGradient id="gxcBlueDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#96F0FF"/>
+      <stop offset="55%" stop-color="#35D6FA"/>
+      <stop offset="100%" stop-color="#00B1DA"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#gxcBlueDark)" stroke-width="12" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M35.31 20.69 A16 16 0 1 0 35.31 43.31"/>
+    <path d="M35.31 43.31 H40 V32 H28"/>
+    <path d="M52 14 L80 50"/>
+    <path d="M80 14 L52 50"/>
+    <path d="M117.31 20.69 A16 16 0 1 0 117.31 43.31"/>
+  </g>
+  <path d="M66 23 L68.5 29.5 L75 32 L68.5 34.5 L66 41 L63.5 34.5 L57 32 L63.5 29.5 Z" fill="#E9FCFF"/>
+</svg>
