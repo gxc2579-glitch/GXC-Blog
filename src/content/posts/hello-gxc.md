@@ -54,6 +54,6 @@ const stack = ["Astro", "Svelte", "Tailwind CSS", "TypeScript"];
 
 如果你也在折腾自己的站点，或者只是想找个地方看看番、聊聊技术，欢迎常来。
 
-可以从 [关于我](/about/) 开始，或者直接订阅 [RSS](/rss/)。
+可以从 [关于我](../../about/) 开始，或者直接订阅 [RSS](../../rss/)。
 
 感谢来访，我们下一篇文章见。

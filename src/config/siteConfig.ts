@@ -47,7 +47,7 @@ export const siteConfig: SiteConfig = {
 	// 站点副标题
 	subtitle: "Tech · ACGN · Life",
 
-	// 站点 URL
+	// 站点 URL（只填 origin，GitHub Pages 的 /GXC-Blog 子路径由 astro base 处理）
 	site_url: "https://gxc2579-glitch.github.io",
 
 	// 站点描述

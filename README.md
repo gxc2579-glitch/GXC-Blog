@@ -6,6 +6,10 @@
 
 GuXingChen Blog 的个人站点源码，使用 **Astro** 构建，**Svelte** 提供交互，**Tailwind CSS** 负责样式。
 
+## 在线预览
+
+https://gxc2579-glitch.github.io/GXC-Blog/
+
 ## 特性
 
 - 静态生成，快速加载，SEO 友好
@@ -34,7 +38,7 @@ pnpm build
 pnpm preview
 ```
 
-构建产物输出到 `dist/`。如果部署在子路径（例如 GitHub Pages 项目页），需要同时配置 Astro 的 `site` 与 `base`。
+构建产物输出到 `dist/`。GitHub Pages 部署由 `.github/workflows/deploy.yml` 自动完成：构建时设置 `GITHUB_PAGES=true`，站点会自动使用 `/GXC-Blog` 子路径。
 
 ## 常用命令
 
